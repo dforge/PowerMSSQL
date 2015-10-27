@@ -1,4 +1,10 @@
-﻿###
+﻿##############################################
+#
+# DO NOT USE THAT SCRIPT IF YOU NOT SURE
+#
+##############################################
+
+###
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Force
 $sw = [Diagnostics.Stopwatch]::StartNew()
 
